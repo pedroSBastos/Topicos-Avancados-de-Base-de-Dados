@@ -1,0 +1,24 @@
+ html, body{
+     height: 100%;
+     width: 100%;
+     margin: 0;
+     padding: 0;
+     background-color: #868686;
+}
+
+div#map{
+    height: 100%;
+    width: 100%;
+    margin-top: -10px;
+    border: solid 7px #363434;
+    
+}
+
+
+ul#clean{
+    background-image: url(gnome_edit_clear.ico);
+    background-size:30px;
+    background-repeat: no-repeat;
+
+   
+}
